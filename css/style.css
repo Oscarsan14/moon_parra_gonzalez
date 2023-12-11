@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,800;1,400&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 15px;   
+}
+
+div{
+    border: 1px solid black;
+}
+
+.collapse{
+    background-color: #03045e;   
+    text-align: center;
+    padding-top: 10px;
+    border: none;
+}
+
+.nav-item:hover{
+    background-color: #0096c7;   
+}
+
