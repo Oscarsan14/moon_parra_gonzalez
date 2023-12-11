@@ -3,7 +3,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-weight: 15px;   
-    background-image: url(/img/moon.jpg);
+    background-image: url(img/moon.jpg);
     height: 100%;
 }
 
